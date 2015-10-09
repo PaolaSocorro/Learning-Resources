@@ -1,4 +1,4 @@
-# Learning Resources
+# Security Resources
 Random security related resources I have found or been given to study. 
 ### Web Servers || Sockets || Network
 - [Learn what is a web server, how it works and how to make one](http://ruslanspivak.com/lsbaws-part1/)
