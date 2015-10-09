@@ -1,0 +1,28 @@
+# Learning Resources
+
+### Web Servers || Sockets || Network
+- [Learn what is a web server, how it works and how to make one](http://ruslanspivak.com/lsbaws-part1/)
+- [Socket programming](https://docs.python.org/2/howto/sockets.html)
+- [Network Programming - Server & Client A : Basics](http://www.bogotobogo.com/python/python_network_programming_server_client.php)
+
+
+### Security
+- [OWASP Top 10](https://www.owasp.org/index.php/Top_10_2013-Top_10)
+- [SSL & TLS](http://computer.howstuffworks.com/encryption4.htm)
+- [OSI Model - Open Systems Interconnection model](https://en.wikipedia.org/wiki/OSI_model)
+- [SSH - Secure Shell](http://www.slashroot.in/secure-shell-how-does-ssh-work)
+- [Understanding Authentication, Authorization, and Encryption](http://www.bu.edu/tech/about/security-resources/bestpractice/auth/)
+- [WebGoat Project - hands on lessons/practice](https://www.owasp.org/index.php/Category:OWASP_WebGoat_Project)
+
+### APIS
+- [Dropbox Core](https://www.dropbox.com/developers-v1/core/start/python)
+- [WACOM API's](https://developer.wacom.com/)
+
+
+
+```sh
+$ npm i -g gulp
+```
+
+**Free Software, Hell Yeah!**
+- [Gulp](http://gulpjs.com)
