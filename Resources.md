@@ -1,5 +1,5 @@
 # Learning Resources
-
+Random security related resources I have found or been given to study. 
 ### Web Servers || Sockets || Network
 - [Learn what is a web server, how it works and how to make one](http://ruslanspivak.com/lsbaws-part1/)
 - [Socket programming](https://docs.python.org/2/howto/sockets.html)
@@ -14,15 +14,3 @@
 - [Understanding Authentication, Authorization, and Encryption](http://www.bu.edu/tech/about/security-resources/bestpractice/auth/)
 - [WebGoat Project - hands on lessons/practice](https://www.owasp.org/index.php/Category:OWASP_WebGoat_Project)
 
-### APIS
-- [Dropbox Core](https://www.dropbox.com/developers-v1/core/start/python)
-- [WACOM API's](https://developer.wacom.com/)
-
-
-
-```sh
-$ npm i -g gulp
-```
-
-**Free Software, Hell Yeah!**
-- [Gulp](http://gulpjs.com)
