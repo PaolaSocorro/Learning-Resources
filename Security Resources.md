@@ -13,4 +13,4 @@ Random security related resources I have found or been given to study.
 - [SSH - Secure Shell](http://www.slashroot.in/secure-shell-how-does-ssh-work)
 - [Understanding Authentication, Authorization, and Encryption](http://www.bu.edu/tech/about/security-resources/bestpractice/auth/)
 - [WebGoat Project - hands on lessons/practice](https://www.owasp.org/index.php/Category:OWASP_WebGoat_Project)
-
+- [What is a Firewall](https://www.digitalocean.com/community/tutorials/what-is-a-firewall-and-how-does-it-work)
